@@ -12,7 +12,7 @@ Run:
 ./main 5
 ```
 
-output:
+Output:
 ```
 Inside main1's Main without namespace: argv[1]: 5
 Inside main2's Main with namespace: argv[1]: 5
